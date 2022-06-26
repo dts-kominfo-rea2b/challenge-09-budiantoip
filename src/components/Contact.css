@@ -1,0 +1,27 @@
+.card {
+    border-radius: 5px;
+    min-height: 300px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+.img {
+    border-radius: 50%;
+    max-width: 200px;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #f4deb3;
+    border-radius: 25px;
+    padding: 25px;
+}
+
+.details-container {
+    flex: 2;
+}
+
+.avatar-container {
+    flex-basis: 250px;
+}

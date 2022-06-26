@@ -1,4 +1,7 @@
 .App {
   text-align: center;
   display: flex;
+  margin: 0 auto;
+  display: block;
+  background-color: #f9ebd7;
 }
